@@ -1,0 +1,5 @@
+*.class
+IAdditionService.java
+R.java
+*.apk
+*.dex
